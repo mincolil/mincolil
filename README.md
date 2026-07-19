@@ -1,5 +1,6 @@
 # 💫 About Me:
-Các dự án đã thực hiện<br>PDF to Excel Automation<br>Hệ thống chuyển đổi sao kê PDF sang Excel: trích xuất văn bản → parse theo rule → chuẩn hóa dữ liệu → xuất file. Xây dựng UI desktop (PyQt5) và đóng gói ứng dụng.<br><br>Text-to-Video (Stickman Domain)<br>
+## 🚀 Các dự án đã thực hiện
+- Incoming (Stickman Domain)<br>
 
 
 # 💻 Tech Stack:
