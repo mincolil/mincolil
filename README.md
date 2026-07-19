@@ -1,5 +1,5 @@
 # 💫 About Me:
-Các dự án đã thực hiện<br>PDF to Excel Automation<br>Hệ thống chuyển đổi sao kê PDF sang Excel: trích xuất văn bản → parse theo rule → chuẩn hóa dữ liệu → xuất file. Xây dựng UI desktop (PyQt5) và đóng gói ứng dụng.<br><br>Text-to-Video (Stickman Domain)<br>Hệ thống chuyển văn bản thành video: lập kế hoạch frame → sinh ảnh có kiểm soát → tinh chỉnh theo vòng lặp. Tập trung vào kiểm soát pose, timing và khả năng mở rộng.<br><br>Data Labeling Tool (Gradio)<br>Công cụ gán nhãn dữ liệu ảnh nội bộ bằng Gradio, phục vụ quy trình labeling và hỗ trợ fine-tuning model (Stable Diffusion 1.5).<br><br>Audio-to-Text Tool<br>Công cụ chuyển đổi audio sang văn bản, phục vụ xử lý dữ liệu và sản xuất nội dung.<br><br>Dự đoán giá nhà<br>Regression pipeline end-to-end.<br><br>Dự đoán khách hàng rời bỏ dịch vụ<br>EDA, data-centric, model-centric, threshold tuning, UI (Streamlit).<br><br>Phát hiện gian lận thẻ tín dụng<br>Xử lý dữ liệu mất cân bằng (tối ưu PR-AUC), model-centric, threshold tuning, UI (Streamlit).<br><br>Phân tích cảm xúc tiếng Việt
+Các dự án đã thực hiện<br>PDF to Excel Automation<br>Hệ thống chuyển đổi sao kê PDF sang Excel: trích xuất văn bản → parse theo rule → chuẩn hóa dữ liệu → xuất file. Xây dựng UI desktop (PyQt5) và đóng gói ứng dụng.<br><br>Text-to-Video (Stickman Domain)<br>
 
 
 # 💻 Tech Stack:
