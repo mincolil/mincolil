@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Mình là Minh côn đây:
 ## 🚀 Các dự án đã thực hiện
 - Incoming (Stickman Domain)<br>
 
