@@ -1,6 +1,6 @@
 # Mình là Minh côn đây:
 ## 🚀 Các dự án đã thực hiện
--**Dự đoán giá nhà**
+- **Dự đoán giá nhà**
 <br>Regression pipeline end-to-end.
 
 
