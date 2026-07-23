@@ -1,6 +1,9 @@
 # Mình là Minh côn đây:
 ## 🚀 Các dự án đã thực hiện
-- Incoming (Stickman Domain)<br>
+- Dự đoán giá nhà
+<br>Regression pipeline end-to-end.
+
+
 
 ## 🚀 Mục tiêu:
 2026
